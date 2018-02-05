@@ -1,5 +1,5 @@
-Getting Started with Slate
-------------------------------
+Getting Started with Everyprint docs
+------------------------------------
 
 ### Prerequisites
 
@@ -11,10 +11,9 @@ You're going to need:
 
 ### Getting Set Up
 
-1. Fork this repository on GitHub.
-2. Clone the repo wit  `git clone `
-3. `cd everyprint`
-4. Initialize and start Slate. You can either do this locally, or with Vagrant:
+1. Fork this repository on GitHub or clone the repository on your hard drive with  `git clone https://github.com/djobiii2078/everyprint.git`.
+2. `cd everyprint`
+3. Initialize and start the everyprint docs. You can either do this locally, or with Vagrant:
 
 ```shell
 # either run this to run locally
