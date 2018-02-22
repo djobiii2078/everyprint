@@ -3,12 +3,13 @@ title: EVERYTHING API
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
-  - ruby
   - python
   - javascript
+  - ruby
 
 
 includes:
+  - verification
   - customers
   - commands
   - printers
